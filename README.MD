@@ -3,7 +3,7 @@
 This project automates 39 test cases for the Swift Translator website using Playwright.
 
 ## How to Install
-1. Clone the repository: `git clone <>`
+1. Clone the repository: `git clone https://github.com/Vihanga09/IT23242104-Swift-Translator-Automation.git`
 2. Install dependencies: `npm install`
 3. Install Playwright browsers: `npx playwright install`
 
